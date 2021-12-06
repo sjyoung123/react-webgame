@@ -1,7 +1,7 @@
-import Gugudan from "./Gugudan";
+import AppRouter from "./routes/Router";
 
 function App() {
-  return <Gugudan />;
+  return <AppRouter />;
 }
 
 export default App;
